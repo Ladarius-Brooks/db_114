@@ -22,7 +22,6 @@ def remove(head, key):
             else:
                 break
             if node.data == key:
-                # pass
                 return head
             if node.next.data == key:
                 temp = node
