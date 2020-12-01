@@ -11,3 +11,8 @@ then run data_structures.py
 
 Go to class 3 folder
 then run queue.py
+
+For the CR
+go to class 3
+run node.py for single link
+run double_link for double link
